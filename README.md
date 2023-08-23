@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnilDudhe0777" alt="AnilDudhe0777" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/AnilDudhe18" target="blank"><img src="https://img.shields.io/twitter/follow/mohit_solunke03?logo=twitter&style=for-the-badge" alt="AnilDudhe0777" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AnilDudhe18" target="blank"><img src="https://img.shields.io/twitter/follow/AnilDudhe18?logo=twitter&style=for-the-badge" alt="AnilDudhe0777" /></a> </p>
 
-- 🔭 I’m currently working on [Machine learning and Data Science](https://github.com/MohitSolunke/AIML)
+- 🔭 I’m currently working on [ Data Science and Machine Learning]
 
 - 👯 I’m looking to collaborate on *Internship*
 
