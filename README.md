@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on 𝓜𝓪𝓬𝓱𝓲𝓷𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 & 𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓬𝓮
 
-- 👯 I’m looking to collaborate on 𝓘𝓷𝓽𝓮𝓻𝓷𝓼𝓱𝓲𝓹
-
 - 🤝 I’m looking for help with 𝓜𝓪𝓬𝓱𝓲𝓷𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 & 𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓬𝓮
 
 - 📫 How to reach me *https://linktr.ee/AniLDudhE*
