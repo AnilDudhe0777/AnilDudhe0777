@@ -44,36 +44,84 @@
 
 <p align="left">
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </a>
 
+<!-- NumPy -->
 <a href="https://numpy.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
 </a>
 
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+</a>
+
+<!-- Scikit-learn -->
 <a href="https://scikit-learn.org/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
 </a>
 
+<!-- XGBoost -->
+<a href="https://xgboost.readthedocs.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.svg" alt="XGBoost" width="45" height="45"/>
+</a>
+
+<!-- TensorFlow -->
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
 </a>
 
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="45" height="45"/>
 </a>
 
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
+</a>
+
+<!-- OpenCV -->
 <a href="https://opencv.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
 </a>
 
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/>
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
 </a>
 
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
+</a>
+
+<!-- Hugging Face -->
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="45" height="45"/>
+</a>
+
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="45" height="45"/>
+</a>
+
+<!-- LangGraph -->
+<a href="https://www.langchain.com/langgraph" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="45" height="45"/>
+</a>
+
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+</a>
+
+<!-- Flask -->
 <a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
 </a>
 
 </p>
@@ -83,6 +131,10 @@
 ## 🗄️ Databases
 
 <p align="left">
+
+<a href="https://www.oracle.com/database/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+</a>
 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
@@ -97,18 +149,6 @@
 </a>
 
 </p>
-
----
-
-## 🌐 Web Development
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Bootstrap**
-- **Django**
-- **Flask**
-- **REST APIs**
 
 ---
 
@@ -138,40 +178,14 @@
 
 </p>
 
----
-
-## 🚀 Featured Projects
-
-I build projects focused on:
-
-- 🤖 **Machine Learning & Deep Learning**
-- 🧠 **Generative AI & LLM Applications**
-- 🔎 **Retrieval-Augmented Generation (RAG)**
-- 🕵️ **AI Agents & Agentic Workflows**
-- 👁️ **Computer Vision**
-- 📊 **Data Science & Predictive Analytics**
-- 🌐 **AI-powered Web Applications**
-
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnilDudhe0777&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilDudhe0777&layout=compact&locale=en" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilDudhe0777" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilDudhe0777&theme=github_dark" alt="GitHub Profile Details" />
-</p>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnilDudhe0777&show_icons=true&locale=en&theme=github_dark" alt="AnilDudhe0777's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnilDudhe0777&layout=compact&locale=en&theme=github_dark" alt="AnilDudhe0777's Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilDudhe0777" alt="GitHub Streak" />
+  <img  height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilDudhe0777&theme=github_dark" alt="GitHub Profile Details" />
+</div>
 ---
 
 ## 🤝 Connect With Me
