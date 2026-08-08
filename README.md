@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=AnilDudhe0777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=AnilDudhe0777">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnilDudhe0777" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -21,43 +15,6 @@
 - 💡 Interested in building **AI-powered applications and intelligent systems**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, RAG, and Generative AI**
 - 📫 Reach me through my **[Linktree](https://linktr.ee/AniLDudhE)**
-
----
-
-## 🧠 AI & Machine Learning
-
-- 🤖 **Machine Learning**
-  - Supervised Learning
-  - Unsupervised Learning
-  - Feature Engineering
-  - Model Evaluation
-  - Scikit-learn
-  - XGBoost
-
-- 🧠 **Deep Learning**
-  - Neural Networks
-  - CNN
-  - Transfer Learning
-  - TensorFlow / Keras
-  - PyTorch
-
-- ✨ **Generative AI**
-  - Large Language Models (LLMs)
-  - Prompt Engineering
-  - Embeddings
-  - Vector Databases
-  - Retrieval-Augmented Generation (RAG)
-  - LangChain
-  - AI Agents
-  - Agentic Workflows
-
-- 👁️ **Computer Vision**
-  - OpenCV
-  - Image Processing
-  - Image Classification
-  - Transfer Learning
-
----
 
 ## 💻 Programming Languages
 
